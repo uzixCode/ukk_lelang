@@ -1,0 +1,91 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-07-02 06:31:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-02 07:22:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-02 08:49:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-02 08:49:19 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-7.534303', '109.1846614', '78')
+ERROR - 2020-07-02 08:49:22 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-7.5343015', '109.1846621', '78')
+ERROR - 2020-07-02 08:49:55 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-7.534303', '109.1846615', '78')
+ERROR - 2020-07-02 09:14:33 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-7.5343029', '109.1846612', '78')
+ERROR - 2020-07-02 09:14:39 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-7.534302', '109.1846619', '78')
+ERROR - 2020-07-02 09:14:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-02 09:15:42 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-7.5343029', '109.1846618', '78')
+ERROR - 2020-07-02 09:53:39 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-2.9600317', '104.7547455', '84')
+ERROR - 2020-07-02 11:39:33 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-2.9600317', '104.7547455', '84')
+ERROR - 2020-07-02 11:43:15 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-2.9600317', '104.7547455', '84')
+ERROR - 2020-07-02 11:48:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-02 13:27:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-02 13:30:28 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.326065', '106.7088479', 0)
+ERROR - 2020-07-02 13:31:37 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3260592', '106.7088494', 0)
+ERROR - 2020-07-02 13:32:19 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3260527', '106.7088519', 0)
+ERROR - 2020-07-02 13:32:53 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3260665', '106.7088514', 0)
+ERROR - 2020-07-02 14:48:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-02 15:06:05 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.32599', '106.7088445', 0)
+ERROR - 2020-07-02 15:07:01 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3260557', '106.7088468', 0)
+ERROR - 2020-07-02 15:09:01 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3260369', '106.7088523', '174')
+ERROR - 2020-07-02 15:11:06 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.326063', '106.7088536', '174')
+ERROR - 2020-07-02 15:14:02 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3260123', '106.7088497', 0)
+ERROR - 2020-07-02 15:14:28 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3260123', '106.7088497', '174')
+ERROR - 2020-07-02 15:14:59 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3260123', '106.7088497', '174')
+ERROR - 2020-07-02 15:15:16 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3260497', '106.7088309', '174')
+ERROR - 2020-07-02 15:15:47 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3260497', '106.7088309', '174')
+ERROR - 2020-07-02 15:33:48 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3266972', '106.7092744', '174')
+ERROR - 2020-07-02 16:00:39 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3238351', '106.7255244', '174')
+ERROR - 2020-07-02 16:01:16 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356722', '106.7328338', '174')
+ERROR - 2020-07-02 16:03:08 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356722', '106.7328338', '174')
+ERROR - 2020-07-02 16:05:58 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.335672', '106.7328339', '174')
+ERROR - 2020-07-02 16:06:25 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356722', '106.7328336', '174')
+ERROR - 2020-07-02 16:06:37 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356722', '106.7328336', '174')
+ERROR - 2020-07-02 16:06:54 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356722', '106.7328336', '174')
+ERROR - 2020-07-02 16:07:04 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356722', '106.7328336', '174')
+ERROR - 2020-07-02 16:09:32 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3211401', '106.7311969', '174')
+ERROR - 2020-07-02 16:13:08 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356713', '106.732834', '174')
+ERROR - 2020-07-02 16:17:50 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3211623', '106.7289287', '174')
+ERROR - 2020-07-02 16:22:14 --> {
+    "result": false,
+    "data": {
+        "msg": "Layanan tidak tersedia."
+    }
+}
+ERROR - 2020-07-02 16:22:16 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356719', '106.7328339', '174')
+ERROR - 2020-07-02 16:23:16 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356719', '106.7328339', '174')
+ERROR - 2020-07-02 16:26:12 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3211401', '106.7311969', '174')
+ERROR - 2020-07-02 16:26:24 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3211401', '106.7311969', '174')
+ERROR - 2020-07-02 16:26:47 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3211401', '106.7311969', '174')
+ERROR - 2020-07-02 16:27:15 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356723', '106.7328322', '174')
+ERROR - 2020-07-02 16:28:08 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356723', '106.7328322', '174')
+ERROR - 2020-07-02 16:28:24 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3211147', '106.7312603', '174')
+ERROR - 2020-07-02 16:28:28 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3211147', '106.7312603', '174')
+ERROR - 2020-07-02 16:28:34 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3211147', '106.7312603', '174')
+ERROR - 2020-07-02 16:29:26 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3211147', '106.7312603', '174')
+ERROR - 2020-07-02 16:30:10 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356721', '106.7328338', '174')
+ERROR - 2020-07-02 16:30:55 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356721', '106.7328338', '174')
+ERROR - 2020-07-02 16:31:08 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3211401', '106.7311969', '174')
+ERROR - 2020-07-02 16:31:23 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3211401', '106.7311969', '174')
+ERROR - 2020-07-02 16:31:33 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3211401', '106.7311969', '174')
+ERROR - 2020-07-02 16:31:43 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3211401', '106.7311969', '174')
+ERROR - 2020-07-02 16:43:43 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3206267', '106.7284396', '174')
+ERROR - 2020-07-02 16:44:09 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3211643', '106.7289156', '174')
+ERROR - 2020-07-02 16:50:28 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3212033', '106.7310078', '174')
+ERROR - 2020-07-02 16:51:03 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356721', '106.7328338', '174')
+ERROR - 2020-07-02 16:51:14 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356721', '106.7328338', '174')
+ERROR - 2020-07-02 16:51:25 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356721', '106.7328338', '174')
+ERROR - 2020-07-02 16:51:26 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356721', '106.7328338', '174')
+ERROR - 2020-07-02 17:42:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-02 19:01:54 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3271116', '106.7258596', '174')
+ERROR - 2020-07-02 19:02:11 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3271116', '106.7258596', '174')
+ERROR - 2020-07-02 19:03:00 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3271116', '106.7258596', '174')
+ERROR - 2020-07-02 20:36:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-02 22:40:00 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356721', '106.7328338', '174')
+ERROR - 2020-07-02 22:40:10 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356721', '106.7328338', '174')
+ERROR - 2020-07-02 22:40:51 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356713', '106.732834', '174')
+ERROR - 2020-07-02 22:41:04 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356713', '106.732834', '174')
+ERROR - 2020-07-02 22:41:11 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356715', '106.7328342', '174')
+ERROR - 2020-07-02 22:41:20 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356715', '106.7328342', '174')
+ERROR - 2020-07-02 22:41:25 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356715', '106.7328342', '174')
+ERROR - 2020-07-02 22:41:28 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356713', '106.7328344', '174')
+ERROR - 2020-07-02 22:41:33 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356713', '106.7328344', '174')
+ERROR - 2020-07-02 22:41:38 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356713', '106.7328344', '174')
+ERROR - 2020-07-02 22:41:45 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356714', '106.7328343', '174')
+ERROR - 2020-07-02 22:42:28 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3356714', '106.7328343', '174')
+ERROR - 2020-07-02 22:42:32 --> Query error: Table 'sosmeds9_dbs.location' doesn't exist - Invalid query: INSERT INTO `location` (`langtitude`, `longtitude`, `id_user`) VALUES ('-6.3210398', '106.7314439', '174')

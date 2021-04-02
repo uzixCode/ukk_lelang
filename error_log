@@ -1,0 +1,620 @@
+[08-Nov-2018 14:43:24 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[13-Nov-2018 00:00:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[13-Nov-2018 00:00:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[13-Nov-2018 00:00:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[14-Nov-2018 23:40:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[14-Nov-2018 23:40:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[14-Nov-2018 23:40:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[15-Nov-2018 01:22:37 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 01:22:37 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 01:25:47 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 01:25:47 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 01:26:20 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 01:26:20 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 01:26:46 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 01:26:46 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 01:33:15 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 01:33:15 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 01:36:51 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 01:36:51 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 01:37:32 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 01:37:32 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 01:38:19 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 01:38:19 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 03:54:55 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 03:55:26 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 04:52:54 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 04:53:21 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 04:53:22 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 04:53:48 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 04:54:40 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 04:55:08 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 05:06:15 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 05:06:42 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 05:54:26 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 05:54:40 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 05:54:40 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 05:54:40 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 05:54:40 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 05:55:10 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 06:41:38 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 06:41:38 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 06:41:45 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 06:41:45 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 06:42:27 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 06:42:27 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 06:42:36 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 06:42:36 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 06:47:01 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 06:47:01 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 07:37:37 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 07:37:47 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 07:37:47 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 07:37:48 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 07:38:24 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 07:38:52 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 07:39:10 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 07:39:10 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:15:59 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:15:59 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:16:02 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:16:02 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:16:03 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:16:03 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:16:13 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:16:13 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:16:17 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:16:17 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:16:17 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:16:17 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:16:24 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:16:24 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:16:27 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:16:27 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:16:30 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:16:30 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:16:35 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:16:35 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:16:35 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:16:35 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:16:35 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:16:35 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:16:36 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:16:36 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:16:39 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:16:39 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:16:46 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:16:46 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:16:59 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:16:59 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:17:02 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:17:02 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:17:05 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:17:05 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:17:05 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:17:05 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:17:09 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:17:09 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:17:12 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:17:12 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:17:20 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:17:20 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:17:23 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:17:23 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:17:26 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:17:26 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:17:27 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:17:27 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:17:27 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:17:27 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:17:34 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:17:34 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:17:35 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:17:35 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:40:07 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:40:07 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:40:17 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:40:17 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 08:40:33 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 08:41:03 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 09:00:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[15-Nov-2018 09:00:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[15-Nov-2018 09:00:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[15-Nov-2018 09:05:29 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:05:29 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:52:31 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:52:31 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:52:37 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:52:37 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:52:50 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:52:50 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:53:08 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:53:08 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:53:12 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:53:12 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:53:14 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:53:14 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:53:17 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:53:17 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:53:27 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:53:27 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:54:10 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:54:11 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:54:32 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:54:32 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:54:33 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:54:33 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:54:34 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:54:34 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:54:35 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:54:35 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:54:40 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:54:40 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:54:47 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:54:47 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:54:51 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:54:51 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:54:55 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:55:11 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:55:11 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:55:30 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:55:30 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:55:32 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:55:32 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:55:33 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:55:33 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:55:40 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:55:40 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:55:42 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 09:55:45 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:55:46 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:55:46 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:55:53 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:55:53 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:56:13 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:56:13 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 09:56:17 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 09:56:23 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 09:56:23 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:02:00 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:02:00 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:02:21 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:02:21 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:02:55 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:02:55 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:03:07 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:03:07 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:03:18 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:03:18 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:03:24 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:03:24 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:03:25 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:03:25 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:03:30 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:03:30 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:03:31 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:03:31 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:03:52 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:03:52 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:04:36 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:05:03 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:05:03 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:05:03 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:05:18 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:05:38 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:05:38 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:05:48 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:05:49 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 10:05:54 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:05:54 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:06:05 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:06:05 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:06:07 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:06:07 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:06:07 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:06:21 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:06:21 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:06:29 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 10:06:41 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:06:57 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 10:06:57 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:06:57 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:06:57 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:06:57 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:07:21 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 210
+[15-Nov-2018 10:07:21 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:07:26 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:07:26 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:07:26 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:07:43 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:07:54 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:07:54 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:08:02 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:08:02 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:08:16 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 420
+[15-Nov-2018 10:08:16 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:08:49 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 10:09:19 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:09:19 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:09:33 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:10:05 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 10:10:44 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:10:44 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:10:59 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:10:59 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:11:12 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:11:12 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:11:23 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:11:23 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:11:28 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:11:28 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:11:29 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:12:03 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 10:12:06 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:12:42 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 10:13:47 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:13:47 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:13:52 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:13:52 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:14:08 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:14:08 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:14:08 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:14:08 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:14:09 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:14:09 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:14:13 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:14:13 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:14:15 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:14:15 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:14:16 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:14:16 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:14:17 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:14:17 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:14:23 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:14:23 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:14:24 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:14:24 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:14:27 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:14:27 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:14:28 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:14:28 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:14:32 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:14:32 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:14:35 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:14:35 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:15:03 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:15:03 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:15:08 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:15:08 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:15:10 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:15:10 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:15:14 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:15:14 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:15:14 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:15:14 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:15:18 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:15:18 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:15:27 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:15:27 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:15:30 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:15:30 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:17:12 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:17:12 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:17:19 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:17:19 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:18:20 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:18:20 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:18:27 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:18:27 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:25:44 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:25:44 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:25:55 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:25:55 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:25:58 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:25:59 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:26:00 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:26:00 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:26:07 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:26:07 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:26:28 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:26:28 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:26:39 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:26:39 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:26:56 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:26:56 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:27:02 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:27:02 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 10:35:24 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 10:35:24 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:07:07 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:07:47 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 11:08:53 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:08:53 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:09:17 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:09:17 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:09:35 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:09:35 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:10:10 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:10:10 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:10:15 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:10:15 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:10:20 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:10:21 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:10:43 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:10:43 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:12:16 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:12:16 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:12:25 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:12:25 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:12:44 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:13:51 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 11:15:18 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:15:19 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:15:20 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:16:02 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 11:16:12 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:16:46 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 11:16:46 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:17:20 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:17:20 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:17:20 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:18:15 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:18:15 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:20:35 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:20:35 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:21:45 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:21:45 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:22:20 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:22:20 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:22:30 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:22:30 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:22:30 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:22:30 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:22:45 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:22:45 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:22:54 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:22:54 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:22:55 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:22:55 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:22:59 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:23:16 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:23:16 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:23:36 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 420
+[15-Nov-2018 11:23:36 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:23:36 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:23:45 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:23:48 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:23:48 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:23:48 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:24:03 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:24:20 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:24:20 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:24:20 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:24:20 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:24:31 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:24:31 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:24:31 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:24:54 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:24:54 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:24:54 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:24:54 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:25:01 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:25:13 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:25:13 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:25:48 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:25:48 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:25:48 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:25:59 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:25:59 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:26:00 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:26:00 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:26:06 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:26:06 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:26:20 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:26:20 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:26:27 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:26:27 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:29:57 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:30:51 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 11:30:52 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:30:52 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:31:03 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:31:03 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:31:22 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:31:22 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:31:22 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:31:22 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:31:29 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:31:29 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:31:30 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:31:30 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:31:39 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:31:39 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:32:17 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:32:45 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:32:45 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:32:55 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:32:55 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:33:00 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 11:33:22 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:33:22 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:33:38 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:33:46 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:33:56 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:34:38 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 420
+[15-Nov-2018 11:34:39 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 11:34:54 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 11:35:28 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:35:39 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:35:39 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:35:46 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:35:47 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:36:08 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:36:08 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:36:08 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:36:22 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:36:44 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:36:44 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:36:44 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:37:11 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:37:39 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:37:39 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:37:49 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:37:49 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:37:51 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 210
+[15-Nov-2018 11:46:53 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:46:53 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:53:41 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:53:41 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 11:54:42 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 11:54:42 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 12:15:11 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 12:15:11 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 12:15:16 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 12:15:16 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 12:15:17 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 12:15:17 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 12:15:26 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 12:15:26 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 12:15:32 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 12:16:03 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 12:16:06 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 12:16:06 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 12:16:32 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 12:16:32 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 12:16:41 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 12:16:42 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 12:17:58 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 12:17:58 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 12:18:46 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 12:18:46 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 12:19:05 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 12:19:16 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 12:19:16 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 12:19:16 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 12:19:16 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 12:19:17 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 12:19:18 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 12:19:18 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 12:19:20 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 12:19:52 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[15-Nov-2018 12:20:01 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 12:20:02 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 12:20:58 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 12:20:58 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[15-Nov-2018 12:36:38 Asia/Jakarta] PHP Notice:  Constant ENVIRONMENT already defined in /home/ballshop/public_html/index.php on line 63
+[15-Nov-2018 12:36:38 Asia/Jakarta] PHP Warning:  fclose(): supplied resource is not a valid stream resource in /home/ballshop/public_html/system/core/Log.php on line 229
+[16-Nov-2018 23:30:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[16-Nov-2018 23:30:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[16-Nov-2018 23:30:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[29-Nov-2018 23:30:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[29-Nov-2018 23:30:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[29-Nov-2018 23:30:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[11-Dec-2018 16:36:23 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[12-Dec-2018 17:54:31 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[18-Dec-2018 23:21:50 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 420
+[19-Dec-2018 19:50:58 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[23-Dec-2018 20:39:02 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 210
+[24-Dec-2018 05:20:17 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[26-Dec-2018 23:30:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[26-Dec-2018 23:30:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[26-Dec-2018 23:30:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[28-Dec-2018 20:23:57 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[31-Dec-2018 08:37:52 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[31-Dec-2018 15:51:40 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 420
+[02-Jan-2019 13:20:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[02-Jan-2019 13:20:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[02-Jan-2019 13:20:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[04-Jan-2019 13:37:33 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 420
+[05-Jan-2019 11:52:52 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 420
+[07-Jan-2019 23:14:53 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 420
+[16-Jan-2019 19:22:44 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[16-Jan-2019 19:23:19 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[19-Jan-2019 20:55:10 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[22-Jan-2019 17:04:08 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[23-Jan-2019 12:31:07 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[23-Jan-2019 12:54:27 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[24-Jan-2019 16:00:53 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[24-Jan-2019 16:33:30 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[25-Jan-2019 18:41:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[26-Jan-2019 21:34:05 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 210
+[29-Jan-2019 16:54:08 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[30-Jan-2019 23:11:52 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[30-Jan-2019 23:18:17 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 420
+[02-Feb-2019 15:54:03 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[02-Feb-2019 16:21:43 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[02-Feb-2019 16:58:05 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[02-Feb-2019 17:03:33 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[03-Feb-2019 04:20:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[03-Feb-2019 04:20:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[03-Feb-2019 04:20:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[03-Feb-2019 08:00:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[03-Feb-2019 08:00:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[03-Feb-2019 08:00:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[04-Feb-2019 17:16:11 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[05-Feb-2019 22:37:11 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[09-Feb-2019 14:55:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[09-Feb-2019 14:55:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[09-Feb-2019 14:55:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[10-Feb-2019 23:32:40 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[22-Feb-2019 08:25:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[22-Feb-2019 08:25:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[22-Feb-2019 08:25:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[05-Mar-2019 13:34:49 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[05-Mar-2019 20:19:31 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[06-Mar-2019 13:57:18 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[06-Mar-2019 20:08:05 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[07-Mar-2019 19:00:56 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[08-Mar-2019 11:11:47 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 420
+[14-Mar-2019 13:21:08 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 210
+[14-Mar-2019 19:21:31 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 420
+[21-Mar-2019 01:54:22 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[22-Mar-2019 01:24:14 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[26-Mar-2019 17:36:09 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[05-Apr-2019 15:40:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[05-Apr-2019 15:40:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[05-Apr-2019 15:40:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[05-Apr-2019 15:40:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[27-Apr-2019 14:40:49 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[27-Apr-2019 14:45:53 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[30-Apr-2019 03:35:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[30-Apr-2019 03:35:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[30-Apr-2019 03:35:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[03-May-2019 20:31:01 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[03-May-2019 23:55:49 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 420
+[04-May-2019 03:40:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[04-May-2019 03:40:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[04-May-2019 03:40:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[04-May-2019 21:15:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[04-May-2019 21:15:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[04-May-2019 21:15:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[06-May-2019 23:05:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[06-May-2019 23:05:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[06-May-2019 23:05:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[11-May-2019 07:15:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[11-May-2019 07:15:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[11-May-2019 07:15:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[11-May-2019 00:45:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[11-May-2019 00:45:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[11-May-2019 00:45:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[11-May-2019 00:55:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[11-May-2019 00:55:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[11-May-2019 00:55:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[15-May-2019 19:09:48 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[21-May-2019 11:42:03 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ballshop/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[22-May-2019 23:10:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[22-May-2019 23:10:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[22-May-2019 23:10:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting identifier (T_STRING) in /home/ballshop/public_html/application/models/User_model.php on line 71
+[17-Jun-2020 15:39:57 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sosmeds9/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[17-Jun-2020 22:15:10 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sosmeds9/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[17-Jun-2020 22:18:42 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sosmeds9/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[17-Jun-2020 22:20:05 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sosmeds9/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[17-Jun-2020 23:03:27 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sosmeds9/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[17-Jun-2020 23:09:43 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sosmeds9/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[17-Jun-2020 23:14:43 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sosmeds9/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[17-Jun-2020 23:59:27 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sosmeds9/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[18-Jun-2020 00:04:16 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sosmeds9/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[18-Jun-2020 00:09:05 Asia/Jakarta] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/sosmeds9/public_html/application/controllers/Cronjob.php on line 166
+[19-Jun-2020 20:31:01 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sosmeds9/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[27-Jun-2020 18:42:24 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sosmeds9/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[30-Jun-2020 21:21:56 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sosmeds9/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 212
