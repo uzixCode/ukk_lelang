@@ -43,7 +43,7 @@
         .hide {display:none !important;}
     </style>
 </head>
-<body class="horizontal-layout">    
+<body class="horizontal-layout" >    
     <!-- Start Infobar Setting Sidebar -->
     <div class="infobar-settings-sidebar-overlay"></div>
     <!-- End Infobar Setting Sidebar -->
@@ -79,7 +79,7 @@
                 </div>
             </div>
             <!-- Start Topbar -->
-            <div class="topbar">
+            <div class="topbar" >
                 <div class="container-fluid">
                     <!-- Start row -->
                     <div class="row align-items-center">
@@ -89,7 +89,7 @@
                                 <ul class="list-inline mb-0">
                                     <li class="list-inline-item">
                                         <div class="logobar">
-                                            <a href="<?= base_url() ?>" class="logo logo-large"><h4 class="text-primary text-uppercase"><?= (config('short_title')) ? config('title') : $config['title'] ?> </h4></a>                
+                                            <a href="<?= base_url() ?>" class="logo logo-large"><h4 class="text-warning text-uppercase"><?= (config('short_title')) ? config('title') : $config['title'] ?> </h4></a>                
                                             </h4>
                                         </div>                                    
                                     </li>
@@ -100,7 +100,7 @@
                                     <li class="list-inline-item">
                                         <div class="profilebar">
                                             <div class="dropdown">
-                                                <a class="dropdown-toggle" href="#" role="button" id="profilelink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="<?= base_url('assets/public') ?>/images/users/profile.svg" class="img-fluid" alt="profile"><span class="live-icon"><?= (user()) ? user('nama_lengkap') : 'Haii' ; ?></span></a>
+                                                <a class="dropdown-toggle" href="#" role="button" id="profilelink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="<?= base_url('assets/public') ?>/images/users/profile.svg" class="img-fluid" alt="profile"><span class="live-icon"><?= (user()) ? user('nama_lengkap') : 'Hola' ; ?></span></a>
                                                 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="profilelink">
                                                     <?php if(user()) { ?>
                                                         <a class="dropdown-item" href="<?= base_url('user/setting') ?>"><i class="mdi mdi-cogs"></i>Pengaturan Akun</a>
@@ -130,11 +130,11 @@
             </div>
             <!-- End Topbar -->
             <!-- Start Navigationbar -->
-            <div class="navigationbar">
+            <div class="navigationbar " >
                 <!-- Start container-fluid -->
                 <div class="container-fluid">
                     <!-- Start Horizontal Nav -->
-                    <nav class="horizontal-nav mobile-navbar fixed-navbar">
+                    <nav class="horizontal-nav mobile-navbar fixed-navbar me-auto">
                         <div class="collapse navbar-collapse" id="navbar-menu">
                             <?php if (user()) { ?>
                                 <ul class="horizontal-menu">
@@ -154,7 +154,7 @@
                                 </ul>   
                             <?php } else { ?>
                                 <ul class="horizontal-menu">
-                                    <li class="scroll"><a href="<?= base_url() ?>"><i class="ri-dashboard-line"></i><span>Halaman Utama</span></a></li>
+                                    <li class="scroll"><a href="<?= base_url() ?>"><i class="ri-dashboard-line"></i><span>Dashboard</span></a></li>
                                 </ul>
                                 <ul class="horizontal-menu">
                                     <li class="scroll"><a href="<?= base_url('auth/login') ?>"><i class="mdi mdi-login-variant"></i><span>Masuk</span></a></li>
@@ -175,49 +175,19 @@
             </div>
             <!-- End Navigationbar -->
             <!-- Start Breadcrumbbar -->                    
-            <div class="breadcrumbbar">
+            <div class="breadcrumbbar " >
                 <div class="row align-items-center">
                     <div class="col-md-8 col-lg-8">
-                        <h4 class="page-title"> <?= (config('title')) ? config('title') : $config['title'] ?></h4>
+                       
                         <div class="breadcrumb-list">
-                            <ol class="breadcrumb">
-                                <?php if($this->uri->segment(1) == null) : ?>
-                                <li class="breadcrumb-item">
-                                    <a href="#">
-                                        <?= 'Halaman Utama' ?> 
-                                    </a>
-                                </li>
-                                <?php endif; ?>
-                                <?php if($this->uri->segment(1)) : ?>
-                                    <li class="breadcrumb-item">
-                                        <?= ucfirst($this->uri->segment(1)) ?> 
-                                    </li>
-                                <?php endif; ?>
-                                <?php if($this->uri->segment(2)) : ?>
-                                    <?php if($this->uri->segment(2) == 'barang'): ?>
-                                        <li class="breadcrumb-item active" aria-current="page">
-                                            <?php  
-                                                $uri = str_replace('-', ' ', $this->uri->segment(3));
-                                                echo ucwords($uri); 
-                                            ?> 
-                                        </li>
-                                    <?php else: ?>
-                                        <li class="breadcrumb-item active" aria-current="page">
-                                            <?php  
-                                                $uri = str_replace('-', ' ', $this->uri->segment(2));
-                                                echo ucwords($uri); 
-                                            ?>
-                                        </li>
-                                    <?php endif; ?>
-                                <?php endif; ?>
-                            </ol>       
+                                
                         </div>
                     </div>
                 </div>          
             </div>
             <!-- End Breadcrumbbar -->
             <!-- Start Contentbar -->    
-            <div class="contentbar">   
+            <div class="contentbar ">   
                 <?php
                     $this->load->view('result');
                     echo $content;

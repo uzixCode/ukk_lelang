@@ -11,10 +11,12 @@
 @import url('https://fonts.googleapis.com/css?family=Libre+Franklin:400,500,600');
 
 body {
-	background-color: #f9f9f9;
+	
   color: #505458;
   font-size: 14px;
 	font-family: 'Libre Franklin', sans-serif;
+  
+  background: url(../images/authentication/authentication-bg.svg);
 }
 
 .logo {

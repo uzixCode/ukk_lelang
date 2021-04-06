@@ -74,13 +74,21 @@ html {
 body {
   font-family: "Lato", sans-serif;
   margin: 0;
-  background: #ffffff;
+  background: url(../images/bg.svg);
   font-size: 15px;
   font-weight: 400;
   color: #8A98AC;
   line-height: 1.5;
 }
-
+.footerbar{
+  background: url(../images/bg1.svg);
+}
+.navigationbar{
+  background: url(../images/bg1.svg);
+}
+.breadcrumbbar{
+  background-color: #be5757;
+}
 .container-fluid {
   width: 90%;
 }

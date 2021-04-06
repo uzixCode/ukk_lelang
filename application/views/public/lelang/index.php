@@ -3,7 +3,7 @@
                     	<div class="col-md-12">
 <form style="margin: 20px 0;">
 	<div class="form-row">
-		<div class="form-group col-lg-3">
+		<div class="form-group col-lg-3 text-warning">
 			<label>Kolom Sortir</label>
 			<select class="form-control" name="sort_field">
 				<option value="">Kolom...</option>
@@ -16,7 +16,7 @@ foreach ($field as $key => $value) {
 ?>
 			</select>
 		</div>
-		<div class="form-group col-lg-3">
+		<div class="form-group col-lg-3 text-warning">
 			<label>Tipe Sortir</label>
 			<select class="form-control" name="sort_type">
 				<option value="">Tipe...</option>
@@ -24,7 +24,7 @@ foreach ($field as $key => $value) {
 				<option value="desc" <?= ($this->input->get('sort_type') == 'desc') ? 'selected' : '' ?>>DESC</option>
 			</select>
 		</div>
-		<div class="form-group col-lg-3">
+		<div class="form-group col-lg-3 text-warning">
 			<label>Kolom Cari</label>
 			<select class="form-control" name="field">
 				<option value="">Kolom...</option>
@@ -37,7 +37,7 @@ foreach ($field as $key => $value) {
 ?>
 			</select>
 		</div>
-		<div class="form-group col-lg-3">
+		<div class="form-group col-lg-3 text-warning">
 			<label>Kata Kunci Cari</label>
 			<input type="text" class="form-control" name="value" placeholder="Value" value="<?= protect_html($this->input->get('value')) ?>">
 		</div>

@@ -1,18 +1,19 @@
 				<!-- Start row -->
-                <div class="row"> 
+    
+                <div class="row "> 
                     <!-- Start col -->
-                    <div class="col-lg-12 col-xl-4">
-                        <div class="card m-b-30 shadow">
-                            <div class="card-header">                                
-                                <h5 class="card-title mb-0 text-primary">Total Penawaran</h5>
+                    <div class="col-lg-12 col-xl-12 ">
+                        <div class="card m-b-30 shadow bg-white bg-image" style="background-image: url('<?= base_url('assets/public') ?>/images/bg1.svg'); ">
+                            <div class="card-header ">                                
+                                <h5 class="card-title mb-0 text-warning">Total Penawaran</h5>
                             </div>
                             <div class="card-body pb-0">
                                 <div class="row align-items-center">
                                     <div class="col-6 text-left">
-                                    	<h1 class="text-primary"><i class="mdi mdi-animation-outline"></i></h1>
+                                    	<h1 class="text-warning"><i class="mdi mdi-animation-outline"></i></h1>
                                     </div>
                                     <div class="col-6 text-right">
-                                        <h4 class="text-primary"><?= currency($widget_history_lelang[0]['total']) ?></h4>
+                                        <h4 class="text-warning"><?= currency($widget_history_lelang[0]['total']) ?></h4>
                                     </div>
                                 </div>
                             </div>
@@ -20,18 +21,18 @@
                     </div>
                     <!-- Start col -->
                     <!-- End col -->
-                    <div class="col-lg-12 col-xl-4">
-                        <div class="card m-b-30 shadow">
+                    <div class="col-lg-12 col-xl-12">
+                        <div class="card m-b-30 shadow" style="background-image: url('<?= base_url('assets/public') ?>/images/bg1.svg'); ">
                             <div class="card-header">                                
-                                <h5 class="card-title mb-0 text-primary">Total lelang</h5>
+                                <h5 class="card-title mb-0 text-warning">Total lelang</h5>
                             </div>
                             <div class="card-body pb-0">
                                 <div class="row align-items-center">
                                     <div class="col-6 text-left">
-                                    	<h1 class="text-primary"><i class="mdi mdi-folder-multiple-outline"></i></h1>
+                                    	<h1 class="text-warning"><i class="mdi mdi-folder-multiple-outline"></i></h1>
                                     </div>
                                     <div class="col-6 text-right">
-                                        <h4 class="text-primary"><?= currency($widget_lelang[0]['total']) ?></h4>
+                                        <h4 class="text-warning"><?= currency($widget_lelang[0]['total']) ?></h4>
                                     </div>
                                 </div>
                             </div>
@@ -39,18 +40,18 @@
                     </div>
                     <!-- End col -->
                     <!-- End col -->
-                    <div class="col-lg-12 col-xl-4">
-                        <div class="card m-b-30 shadow">
+                    <div class="col-lg-12 col-xl-12">
+                        <div class="card m-b-30 shadow"style="background-image: url('<?= base_url('assets/public') ?>/images/bg1.svg'); ">
                             <div class="card-header">                                
-                                <h5 class="card-title mb-0 text-primary">Total barang</h5>
+                                <h5 class="card-title mb-0 text-warning">Total barang</h5>
                             </div>
                             <div class="card-body pb-0">
                                 <div class="row align-items-center">
                                     <div class="col-6 text-left">
-                                        <h1 class="text-primary"><i class="mdi mdi-folder-outline"></i></h1>
+                                        <h1 class="text-warning"><i class="mdi mdi-folder-outline"></i></h1>
                                     </div>
                                     <div class="col-6 text-right">
-                                        <h4 class="text-primary"><?= currency($widget_barang[0]['total']) ?></h4>
+                                        <h4 class="text-warning"><?= currency($widget_barang[0]['total']) ?></h4>
                                     </div>
                                 </div>
                             </div>
