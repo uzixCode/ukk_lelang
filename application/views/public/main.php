@@ -132,7 +132,7 @@
             <!-- Start Navigationbar -->
             <div class="navigationbar " >
                 <!-- Start container-fluid -->
-                <div class="container-fluid">
+                <div class="container">
                     <!-- Start Horizontal Nav -->
                     <nav class="horizontal-nav mobile-navbar fixed-navbar me-auto">
                         <div class="collapse navbar-collapse" id="navbar-menu">
